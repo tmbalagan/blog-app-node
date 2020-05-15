@@ -1,0 +1,20 @@
+{
+  "name": "blog-app",
+  "version": "1.0.0",
+  "description": "create, share post",
+  "main": "app.js",
+  "scripts": {},
+  "author": "Balamurugan M",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "is-empty": "^1.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.12",
+    "q": "^1.5.1",
+    "rx-lite": "^4.0.8"
+  },
+  "devDependencies": {}
+}
